@@ -35,7 +35,7 @@
 ### 🎯 Goal-Based Budgeting
 - Set **monthly budget limits** and **target goals** for different categories.
 - Visual indicators (like progress bars or badges) to track if you’re within or exceeding your goals.
-- Built-in logic (offline) — **no internet or database required**.
+
 
 ### 📊 Reports & Insights
 - Bar chart visualization of your expenses by category using **MPAndroidChart**.
